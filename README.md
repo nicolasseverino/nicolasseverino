@@ -1,5 +1,6 @@
 <p align="center">
 <img src="ruban1.png" align="center">
+<br><br>
 <img src="https://fontmeme.com/permalink/240406/b8ce4c0359c8cefead4a969a497d8f93.png" alt="handwriting-fonts" border="0" align="center">
 <br><br>
 <img src="https://fontmeme.com/permalink/240406/9467e4ff62e5954a7638e4f2a94dc610.png" alt="handwriting-fonts" border="0" align="center">
@@ -53,6 +54,7 @@ As says Sajid Shaikh, this led me to various different domains of programming, w
 <h3 align="center" style="font-family: 'Ubuntu';"> Social Media </h3>
 <p align="center">
 <a href="https://www.facebook.com/nseverino/"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" height="40"/></a>
+<br><br>
 </p>
 
 <p align="center">
